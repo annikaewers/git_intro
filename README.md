@@ -1,1 +1,4 @@
-Annika Ewers7
+Annika Ewers
+ewersa@example.com
+blue
+CAIN
